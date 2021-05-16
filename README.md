@@ -5,7 +5,8 @@ The model weights and parameters are saved. To load the the saved model without 
 
 > model.load('my_model')
 
-You can download:
+
+You can also train and validate a new model on same data you can download all the required materials on links below:
 
 [Training Images](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_Input.zip)
 
@@ -15,4 +16,4 @@ You can download:
 
 [Test Dataset](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Test_Input.zip)
 
-all from above given links.
+
