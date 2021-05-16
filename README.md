@@ -1,17 +1,18 @@
 # cancer-cell-classification-AI
 
-This is a cancer cell classification AI model to classify malignent and benign cancer.
-The model parameters and weight are saved to load the the saved model without py code just add folowing code in text editor 
+Cell classification AI model to classify malignent and benign cancer.
+The model parameters and weights are saved. To load the the saved model without py code just add folowing code in code editor.
 
-model.load('my_model')
+> model.load('my_model')
 
-Training Dataset:
+You can download:
 
-https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_Input.zip
+[Training Images](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_Input.zip)
 
-https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_Metadata.csv
+[Training CSV Features](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_Metadata.csv)
 
-https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_GroundTruth.csv
+[Training CSV GroudData](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_GroundTruth.csv)
 
-Testing Dataset
-https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Test_Input.zip
+[Test Dataset](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Test_Input.zip)
+
+all from above given links.
