@@ -1,7 +1,7 @@
 # cancer-cell-classification-AI
 
 Cell classification AI model to classify malignent and benign cancer.
-The model weights and parameters are saved. To load the the saved model without py code just add folowing code in your code-editor.
+The model weights and parameters are saved. To load the the saved model without py code just add folowing code in your IDE.
 
 > model.load('my_model')
 
