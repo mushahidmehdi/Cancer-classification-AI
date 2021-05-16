@@ -2,6 +2,7 @@
 
 This is a cancer cell classification AI model to classify malignent and benign cancer.
 The model parameters and weight are saved to load the the saved model without py code just add folowing code in text editor 
+
 model.load('my_model')
 
 Training Dataset:
