@@ -12,10 +12,11 @@ Malignant: cancerous tumors, develop when cells grow uncontrollably. If the cell
 
 First of all lets have a look of what kind of data we have, and what can we make out of it. There are 500k of medical images avalibale from diffent
 resources along with their CSV files. The Good News is data in not that much messay as usually they are, so we will compeletly take advantage of that.
- we will map the csv file along with its respective images and fit into the model, so we can check what results it generates,by comparing with
+we will map the CVS file along with its respective images and fit into the model, so we can check what results it generates,by comparing with
 the label data from CVS file.
-The model weights and parameters are saved, as I was using Pychram, therefore, there wouldn't be any data visualizaition, hountly,
-we don't need any visualization as there is no data manipulation involved.
+
+The model weights and parameters are saved, as I was using Pychram, therefore, there wouldn't be any data visualizaition. Honestly,
+we don't need any visualization, as there is no data manipulation involved here.
 
 To load the the saved model without python code just add folowing code in your IDE
 
