@@ -65,7 +65,7 @@ train_examples = 20237
 validation_examples = 2641
 test_examples = 2453
 Image_height = Image_width = 224
-batch_size = 32
+batch_size = 32    
 
 model = keras.Sequential([
     keras.Input(shape=(224, 224, 3)),
