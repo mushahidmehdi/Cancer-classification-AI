@@ -32,7 +32,7 @@ for line in open('GroundTruth.csv').readlines()[1:]:
     img_name = split_sent[0]
     ben_malig = split_sent[1]
 
-    rand_int = random.random()
+    rand_int = random.random()    
 
     if rand_int < 0.8:
         location = train
