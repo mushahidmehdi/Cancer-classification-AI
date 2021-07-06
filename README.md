@@ -10,9 +10,6 @@ Having said that I would like to explain what we are about to do in this project
 Benign: Benign is a tumors are not harmful in most cases, and they are unlikely to affect other parts of the body.
 
 Malignant: cancerous tumors, develop when cells grow uncontrollably. If the cells continue to grow and spread, this can become life threatening.
-![Benign-and-malignant-melanoma](https://user-images.githubusercontent.com/66418035/119219094-5a011280-baec-11eb-9b2e-d5eace536a46.png)
-
-![malignant-and-benign-tumor-vector-26703501](https://user-images.githubusercontent.com/66418035/119219047-20300c00-baec-11eb-892a-bbf017057976.jpg)
 
 First of all lets have a look of what kind of data we have, and what can we make out of it. There are 500k of medical images avalibale from diffent
 resources along with their CSV files. The Good News is data in not that much messay as usually they are, so we will compeletly take advantage of that.
