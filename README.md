@@ -1,3 +1,5 @@
+
+![GitHub repo size](https://img.shields.io/github/repo-size/mushahidmehdi/cancer-cell-classification-AI-model)
 # Classification of benign and malignant cells AI Model
 
 
